@@ -1,0 +1,305 @@
+/*Styles goes here*/
+
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+.realfactory-main-menu-right-button {
+    background: #ffd600;
+    color: #1c1c1c;
+}
+
+#realfactory-top-search {
+	display: none;
+}
+
+.realfactory-main-menu-search {
+	display: none;
+}
+
+.realfactory-navigation-background {
+    background-color: #ffffff;
+}
+
+.realfactory-navigation .realfactory-logo {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.realfactory-sticky-navigation.realfactory-style-fixed .realfactory-navigation .sf-menu > li > a {
+color: #000;
+}
+
+.realfactory-logo-inner {
+    margin-bottom: 10px;
+}
+
+.realfactory-navigation-bar-wrap .realfactory-main-menu {
+    margin-top: 20px;
+}
+
+.realfactory-main-menu-right-wrap {
+	overflow: hidden;
+    height: 50px;
+    padding-top: 20px;
+}
+
+.realfactory-main-menu {
+    float: right;
+}
+
+.realfactory-main-menu-right-button, .yellow_but {
+    background: #ffd600;
+    color: #1c1c1c !important;
+	border-color: #333333 !important;
+    padding: 8px 15px;
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-radius: 3px;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.yellow_but i {
+    color: #1c1c1c !important;
+}
+
+.yellow_but_big, .wpcf7-submit, .single_add_to_cart_button, .button {
+    background: #ffd600 !important;
+    color: #1c1c1c !important;
+    border-color: #fff!important;
+    padding: 10px 20px !important;
+    font-size: 14px !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
+    border-radius: 3px !important;
+    border-width: 2px !important;
+    border-style: solid !important;
+}
+
+.yellow_but_big i {
+    color: #1c1c1c !important;
+}
+
+
+.realfactory-main-menu-right-button:hover, .yellow_but:hover, .yellow_but_big:hover, .wpcf7-submit:hover, .single_add_to_cart_button:hover, .button:hover {
+    background: #1c1c1c !important;
+    color: #ffd600 !important;
+	border-color: #ffd600 !important;
+}
+
+.wpcf7-submit, .single_add_to_cart_button, .button {
+	border-color: #1c1c1c !important;
+}
+
+.wpcf7-submit:hover, .single_add_to_cart_button:hover, .button:hover {
+	border-color: #ffd600 !important;
+}
+
+.realfactory-main-menu-right-button:hover i, .yellow_but:hover i, .yellow_but_big:hover i {
+    color: #ffd600 !important;
+}
+
+#cours_sec .gdlr-core-feature-box-link {
+	display: none !important;
+}
+
+
+
+#particle {
+	//pointer-events: none;
+}
+
+.particles-js-canvas-el {
+	z-index: 1;
+}
+
+#particle .gdlr-core-stunning-text-item-title {
+	color: #ffd600;
+	position: relative;
+	z-index: 30;
+	margin-bottom: 5px;
+}
+
+#particle .gdlr-core-stunning-text-item-content p {
+	font-weight: bold;
+	color: #fff;
+	position: relative;
+	z-index: 30;
+	font-size: 18px;
+}
+
+#particle .gdlr-core-stunning-text-item-content p a {
+	color: #ffd600;
+	border-bottom: 1px dashed #fff;
+}
+
+.gdlr-core-rating i {
+	color: #ffd600 !important;
+}
+
+.textwidget .realfactory-top-bar-right-social {
+	margin-left: 0 !important;
+}
+
+.textwidget .realfactory-top-bar-right-social a {
+margin-left: 0 !important;
+margin-right: 20px !important;
+}
+
+.realfactory-page-title-wrap {
+background-image: none;
+background-color: #192637;
+}
+
+
+.gdlr-core-accordion-item-content-wrapper {
+	background: #fff;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+
+
+.gdlr-core-accordion-item-content-wrapper h4 {
+ 	color: #191919 !important;
+}
+
+.gdlr-core-accordion-item-content {
+	padding-right: 10px !important;
+    padding-left: 57px !important;
+	color: #231f20;
+}
+
+.yellow_line {
+color: #ffd600;
+}
+
+.realfactory-main-menu-cart {
+display: none;
+}
+
+#how_works .gdlr-core-sync-height-pre-spaces {
+	padding-top: 10px !important;
+}
+
+#how_works .gdlr-core-feature-box {
+    height: 140px !important;
+}
+
+#cours_sec .gdlr-core-feature-box {
+	height: 319px !important;
+}
+
+#main_course_sec .gdlr-core-sync-height-pre-spaces {
+	padding-top: 10px !important;
+}
+
+#main_course_sec .gdlr-core-feature-box-item-title {
+	text-align: center;
+}
+
+#acuity-footer {
+display: none;
+}
+
+#how_works_cor .gdlr-core-feature-box {
+    height: 190px !important;
+}
+
+#how_works_cor .gdlr-core-feature-box-item-title, #how_works .gdlr-core-feature-box-item-title {
+	color: #ffd600;
+}
+
+.custom_heading .gdlr-core-title-item-title-wrap .gdlr-core-title-item-title {
+	font-size: 55px;
+	text-transform: none;
+}
+
+.color_points .gdlr-core-text-box-item-content li { color: #ffd600; }
+
+.justify_content p {
+text-align: justify;
+}
+
+.yellow_text {
+	color: #ffd600;
+}
+
+footer a {
+	color : #fff !important;
+}
+
+footer a:hover {
+	color : #ffd600 !important;
+}
+
+.sf-menu > .realfactory-normal-menu li {
+	background:  #fff!important;
+}
+
+.sf-menu > li > .sub-menu a {
+	color: #000 !important;
+}
+
+.sf-menu > li > .sub-menu a:hover {
+	color: #fff !important;
+}
+
+.custom_heading .gdlr-core-title-item-caption {
+	color : #ffd600 !important;
+}
+.custom_heading .gdlr-core-title-item-title {
+	line-height: 1;
+}
+
+.realfactory-blog-title-wrap {
+    background-image: none !important;
+    text-align: center !important;
+}
+
+.realfactory-blog-title-overlay {
+    background-color: #192637 !important;
+}
+
+
+#main_course_sec .gdlr-core-feature-box-link {
+	display: none;
+}
+
+
+.no-margin-button {
+margin: 0 !important;
+}
+
+#main_course_sec .yellow_but {
+    display: inline-block;
+}
+
+.price_tag {
+    width: 100%;
+    background: #1f4f87;
+    padding: 10px;
+    color: #fff;
+    font-size: 24px !important;
+    font-weight: bold;
+}
+
+.spacing_btw {
+padding: 0 10px;
+}
+
+
+
+/*#main_course_sec .yellow_but {
+    position: absolute;
+    bottom: -100px;
+    left: 50%;
+    margin-left: -70px;
+}*/
